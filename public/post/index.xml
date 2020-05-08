@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on neckfire team OFFICIAL WEBSITE</title>
+    <link>https://neckfire.fr/post/</link>
+    <description>Recent content in Articles on neckfire team OFFICIAL WEBSITE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 19 Jan 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://neckfire.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribution Linux</title>
+      <link>https://neckfire.fr/post/distribuition_linux/</link>
+      <pubDate>Thu, 07 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://neckfire.fr/post/distribuition_linux/</guid>
+      <description>Une distribution Linux, appelée aussi distribution GNU/Linux pour faire référence aux logiciels du projet GNU, est un ensemble cohérent de logiciels, la plupart étant des logiciels libres, assemblés autour du noyau Linux.
+Le terme « distribution » est calqué sur l’anglais software distribution qui signifie « collection de logiciels » en français. On préférera ainsi en français le terme de « système GNU/Linux ».
+L’appellation « GNU/Linux » est controversée. Certains n’emploient que le terme « Linux » par métonymie, Richard Stallman fondateur du projet GNU milite à présent pour que l’on utilise « GNU+Linux », de peur que l’appellation « GNU/Linux » en anglais ne fasse penser que Linux est un logiciel du projet GNU.</description>
+    </item>
+    
+    <item>
+      <title>Distrowatch</title>
+      <link>https://neckfire.fr/post/distrowatch/</link>
+      <pubDate>Thu, 07 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://neckfire.fr/post/distrowatch/</guid>
+      <description>DistroWatch est un site Web destiné à l&amp;rsquo;actualité des distributions GNU/Linux ainsi que d&amp;rsquo;autres systèmes d&amp;rsquo;exploitation libres de type Unix comme FreeBSD, NetBSD ou OpenBSD. Il permet aux lecteurs de trouver des informations générales sur ces systèmes d&amp;rsquo;exploitation ainsi que des classements de popularité. Il contient des informations sur plusieurs centaines de distributions. Son slogan français actuel est « Reprenez du plaisir en informatique. Utilisez Linux, BSD. »
+Le site tient à jour un grand nombre de tableaux qui permettent de comparer les différences existant entre les paquets et versions de logiciels proposés par diverses distributions.</description>
+    </item>
+    
+    <item>
+      <title>Slackware</title>
+      <link>https://neckfire.fr/post/slakware/</link>
+      <pubDate>Thu, 07 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://neckfire.fr/post/slakware/</guid>
+      <description>Slackware est une distribution GNU/Linux qui, à la différence d&amp;rsquo;autres distributions populaires, a longtemps été maintenue par une seule personne. Elle est connue pour suivre au mieux la « philosophie Unix » et rechercher la stabilité des applications.
+Son nom est un jeu de mot qu&amp;rsquo;on peut traduire en français par « glanderie »[réf. souhaitée].
+Philosophie et développement
+La Slackware se veut être une distribution légère, rapide, et sans fioritures. Elle se démarque par une procédure d&amp;rsquo;installation en mode semi-graphique, un système de paquetages logiciels composé simplement d&amp;rsquo;archives tarballs sans gestion des dépendances, ainsi que par un processus de démarrage reposant sur un ensemble de scripts aisément modifiables « à la main » (elle ne dispose d&amp;rsquo;ailleurs pas d&amp;rsquo;un logiciel de configuration centralisée).</description>
+    </item>
+    
+    <item>
+      <title>Distrotest</title>
+      <link>https://neckfire.fr/post/distrotest/</link>
+      <pubDate>Sun, 19 Jan 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://neckfire.fr/post/distrotest/</guid>
+      <description>En une après-midi, j’ai testé deepin, debian, Mageia, ElementaryOS, CentOS, Haiku, FreeBSD et beaucoup d’autres. Vous vous dites que je ne dois pas avoir grand-chose d’intéressant à faire dans ma vie et que j’ai du pas mal jouer avec une ou des clés USB pour y installer des trucs du style images ISO. Sur le premier point, vous avez peut-être raison mais sur le second, vous avez parfaitement tort et pas seulement parce que je grave encore des CD pour mes installations Linux.</description>
+    </item>
+    
+  </channel>
+</rss>
